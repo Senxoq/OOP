@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\test\LABA2\LABA2\function.h(1,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "main.cpp")
+  
+  opic.cpp
+D:\test\LABA2\LABA2\function.h(1,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "opic.cpp")
+  
+  Создание кода...
+  LABA2.vcxproj -> D:\test\LABA2\x64\Debug\LABA2.exe
