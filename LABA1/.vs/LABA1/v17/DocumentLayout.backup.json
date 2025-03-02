@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOP\\OOP\\LABA1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{214EA3C3-A204-4443-B96E-99B96220FFE8}|LABA1\\LABA1.vcxproj|D:\\OOP\\OOP\\LABA1\\LABA1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{214EA3C3-A204-4443-B96E-99B96220FFE8}|LABA1\\LABA1.vcxproj|solutionrelative:LABA1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214EA3C3-A204-4443-B96E-99B96220FFE8}|LABA1\\LABA1.vcxproj|D:\\OOP\\OOP\\LABA1\\LABA1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{214EA3C3-A204-4443-B96E-99B96220FFE8}|LABA1\\LABA1.vcxproj|solutionrelative:LABA1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214EA3C3-A204-4443-B96E-99B96220FFE8}|LABA1\\LABA1.vcxproj|D:\\OOP\\OOP\\LABA1\\LABA1\\geometry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{214EA3C3-A204-4443-B96E-99B96220FFE8}|LABA1\\LABA1.vcxproj|solutionrelative:LABA1\\geometry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\OOP\\OOP\\LABA1\\LABA1\\Source.cpp",
+              "RelativeDocumentMoniker": "LABA1\\Source.cpp",
+              "ToolTip": "D:\\OOP\\OOP\\LABA1\\LABA1\\Source.cpp",
+              "RelativeToolTip": "LABA1\\Source.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAQwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T09:42:51.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "geometry.h",
+              "DocumentMoniker": "D:\\OOP\\OOP\\LABA1\\LABA1\\geometry.h",
+              "RelativeDocumentMoniker": "LABA1\\geometry.h",
+              "ToolTip": "D:\\OOP\\OOP\\LABA1\\LABA1\\geometry.h",
+              "RelativeToolTip": "LABA1\\geometry.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-02T09:41:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\OOP\\OOP\\LABA1\\LABA1\\main.cpp",
+              "RelativeDocumentMoniker": "LABA1\\main.cpp",
+              "ToolTip": "D:\\OOP\\OOP\\LABA1\\LABA1\\main.cpp",
+              "RelativeToolTip": "LABA1\\main.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T09:38:44.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
