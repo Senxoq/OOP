@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\OOP\OOP\LABA3\Project1\Header.h(1,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "main.cpp")
+  
+  Project1.vcxproj -> D:\OOP\OOP\LABA3\x64\Debug\Project1.exe
