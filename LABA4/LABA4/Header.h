@@ -24,9 +24,9 @@ public:
     N** matrix;
     int n;
     matric(int n=0) : n{ n } {
-        matrix = new int* [n];
+        matrix = new double* [n];
         for (int i = 0;i < n;i++)
-      matrix[i]= new int[n];
+      matrix[i]= new double[n];
       
     };
     void cinmatr() {
@@ -53,9 +53,9 @@ public:
     }
 matric <N> proizved(matric<N> m1) {
     matric <N> result(2);
-    result.matrix = new int* [n];
+    result.matrix = new double* [n];
   for (int i = 0;i < n;i++)
-      result.matrix[i] = new int[n];
+      result.matrix[i] = new double[n];
         for (int i = 0;i < n;++i){
             for (int j = 0; j < n;++j){
                 result.matrix[i][j] = 0;
